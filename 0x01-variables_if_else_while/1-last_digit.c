@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
- * main - Entry 
+ * main - Entry
  * Description: get the last digits of a number
  * Return: 0
  */
@@ -20,7 +21,7 @@ int main(void)
 	}
 	else if (ld == 0)
 	{
-		printf("Last digit of %d is %d and is 0\n", n, ld);
+		printf("last digits of %d is %d and is 0\n", n, ld);
 	}
 	else
 	{
