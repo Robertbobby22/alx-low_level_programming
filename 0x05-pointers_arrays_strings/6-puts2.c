@@ -17,7 +17,7 @@ void puts2(char *str)
 
 	int o;
 
-	while (*y != '\n')
+	while (*y != '\0')
 	{
 		y++;
 		longi++;
