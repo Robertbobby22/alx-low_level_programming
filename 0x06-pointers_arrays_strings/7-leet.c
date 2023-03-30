@@ -9,7 +9,7 @@
 char *leet(char *str)
 {
 	int digx1 = 0, digx2;
-	char leet[8] = {'0', 'l', '?', 'E', 'A', '?', '?', 'J'};
+	char leet[8] = {'0', 'l', '?', 'E', 'A', '?', '?', 'T'};
 
 	while (str[digx1])
 	{
